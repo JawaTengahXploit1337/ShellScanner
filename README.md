@@ -1,7 +1,7 @@
 # ShellScanner
 Tools Mass Scan Web Shell No Limits
 
-![screenshot](./ShellScanner.jpg)
+![screenshot](./ShellScanner.png)
 
 
 ### Installation
